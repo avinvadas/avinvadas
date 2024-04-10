@@ -1,5 +1,13 @@
 # Avin Vadas
 **Product Designer & Creative Director**<br/>
+I design better than I code, but if the code and design don't reflect each other, neither of them cuts it. <br/>
+I might be helpful with:
+- Getting a Design System up and running
+- Aligning UX and Product Strategy
+- Constructing an Information Architecture
+- Optimize workflow between design and dev
+- Set unique brand and user touchpoint-experiences.
+
 
 ### 👋 Say hello:
 <a href="https://avinvadas.com"> View my Website </a><br/>
