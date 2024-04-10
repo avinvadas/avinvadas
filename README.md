@@ -6,7 +6,7 @@ I might be helpful with:
 - Aligning UX and Product Strategy
 - Constructing an Information Architecture
 - Optimize workflow between design and dev
-- Set unique brand and user touchpoint-experiences.
+- Plan, design, and produce unique brand and user touchpoints.
 
 
 ### 👋 Say hello:
@@ -16,7 +16,7 @@ I might be helpful with:
 <a href="https://codepen.io/avinvadas"> Visit my Codepen </a><br/>
 <a href="https://codepen.io/avinvadas"> Visit my Mastodon </a><br/>      
           
-### 📚 Read:
+### 📚 Read my stuff:
 <a href="https://medium.com/design-bootcamp/syncing-glsl-shaders-with-design-tokens-fd3c4eed68cf" target="_blank">Syncing Shaders with Design Tokens</a><br/>
 <a href="https://medium.com/design-bootcamp/the-negative-space-of-design-systems-951f141eb84c" target="_blank">The Negative Space of Design Systems</a><br/>
 <a href="https://medium.com/design-bootcamp/be-very-general-about-the-specific-and-very-specific-about-the-general-48d29502385d" target="_blank">Design systems: be specific about your generalities.</a>
