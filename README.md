@@ -8,9 +8,7 @@ My other staff is cooler.
 <a href="https://www.linkedin.com/in/avinvadas/"> Visit me on Linkedin </a><br/>
 <a href="https://dribbble.com/avinvadas"> Visit my Dribbble </a><br/>
 <a href="https://codepen.io/avinvadas"> Visit my Codepen </a><br/>
-<a href="https://codepen.io/avinvadas"> Visit my Mastodon </a><br/>
-
-<br/>         
+<a href="https://codepen.io/avinvadas"> Visit my Mastodon </a><br/>      
           
 ### 📚 Read:
 <a href="https://medium.com/design-bootcamp/syncing-glsl-shaders-with-design-tokens-fd3c4eed68cf" target="_blank">Syncing Shaders with Design Tokens</a><br/>
