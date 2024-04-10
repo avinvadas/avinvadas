@@ -1,7 +1,5 @@
 # Avin Vadas
 **Product Designer & Creative Director**<br/>
-Started coding out of necessity and stayed for the fun.<br/>
-My other staff is cooler.
 
 ### 👋 Say hello:
 <a href="https://avinvadas.com"> View my Website </a><br/>
