@@ -3,11 +3,11 @@
 I design better than I code, but if the code and design don't reflect each other, neither of them cuts it. <br/>
 I might be helpful with:
 - Getting a Design System up and running
-- Aligning UX and Product Strategy
-- Constructing an Information Architecture
-- Optimize workflow between design and dev
-- Plan, design, and produce unique brand and user touchpoints.
-
+- Coding stuff for design people.
+- Designing stuff for code people.
+- Mentoring design teams.
+- Making Strategy, Design, and Code play nice together. Really.
+  <a href="https://bio.site/avinvadas">This is my BioCard</a>.
 
 ### 👋 Say hello:
 <a href="https://avinvadas.com"> View my Website </a><br/>
