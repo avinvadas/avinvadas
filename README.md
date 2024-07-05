@@ -7,8 +7,8 @@ I might be helpful with:
 - Designing stuff for code people.
 - Mentoring design teams.
 - Making Strategy, Design, and Code play nice together.
-
 <a href="https://bio.site/avinvadas">This is my BioCard</a>.
+
 
 ### 👋 Say hello:
 <a href="https://avinvadas.com"> View my Website </a><br/>
