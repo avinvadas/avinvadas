@@ -1,8 +1,8 @@
 # Avin Vadas
 **Product Designer & Creative Director**<br/>
 <a href="https://bio.site/avinvadas">This is my BioCard</a>.<br/>
-I design better than I code, but if the code and design don't reflect each other, neither of them cuts it. <br/>
-I might be helpful with:
+
+Might be helpful with:
 - Getting a Design System up and running
 - Coding stuff for design people.
 - Designing stuff for code people.
