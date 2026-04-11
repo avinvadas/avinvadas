@@ -16,7 +16,7 @@ Might be helpful with:
 <a href="https://www.linkedin.com/in/avinvadas/"> Visit me on Linkedin </a><br/>
 <a href="https://dribbble.com/avinvadas"> Visit my Dribbble </a><br/>
 <a href="https://codepen.io/avinvadas"> Visit my Codepen </a><br/>
-<a href="[https://bsky.app/profile/avinvadas.bsky.social]"> Visit my Bluesky </a><br/>      
+<a href="https://bsky.app/profile/avinvadas.bsky.social"> Visit my BlueSky </a><br/>      
           
 ### 📚 Read my stuff:
 <a href="https://medium.com/design-bootcamp/syncing-glsl-shaders-with-design-tokens-fd3c4eed68cf" target="_blank">Syncing Shaders with Design Tokens</a><br/>
