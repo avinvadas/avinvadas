@@ -1,6 +1,5 @@
 # Avin Vadas
 **Product Designer & Creative Director**<br/>
-<a href="https://bio.site/avinvadas">This is my BioCard</a>.<br/>
 
 Might be helpful with:
 - Getting a Design System up and running
